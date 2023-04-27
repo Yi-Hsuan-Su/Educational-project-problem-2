@@ -5,7 +5,7 @@ by interacting throuh the program.
 
 # How to use
 
-There are few polyonal obeject at the bottom. Try to drag the object to create the shape according to the problem. The polgonal object will auto align while dragging and dropping the object
+There are few polyonal obejects at the bottom. Try to drag the object to create the shape according to the problem. The polgonal object will auto align while dragging and dropping the object
 between the middle line or beside other object.
 
 # Demonstration
