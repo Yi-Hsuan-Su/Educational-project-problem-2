@@ -9,4 +9,4 @@ There are few polyonal obeject at the bottom. Try to drag the object to create t
 between the middle line or beside other object.
 
 # Demonstration
-[![Watch the video](https://img.youtube.com/vi/-wsEnrLXhYk/0.jpg　)(https://youtu.be/-wsEnrLXhYk)
+[![Watch the video](https://img.youtube.com/vi/-wsEnrLXhYk/0.jpg)](https://youtu.be/-wsEnrLXhYk)
